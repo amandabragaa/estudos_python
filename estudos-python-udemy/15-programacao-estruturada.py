@@ -29,7 +29,7 @@ c = a + b
 
 -exemplo de seleção
 if c > 20:
-    print('Maior que 20)
+    print('Maior que 20')
 else:
     print('Menor ou igual a 20)
 
