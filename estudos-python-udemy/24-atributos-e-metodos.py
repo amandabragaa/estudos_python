@@ -1,6 +1,6 @@
-# tributos são valores armazenados dentro de um objeto ou classe. Eles representam características daquele objeto e podem ser acessados sempre que o objeto for utilizado.
+# atributos são valores armazenados dentro de um objeto ou classe. Eles representam características daquele objeto e podem ser acessados sempre que o objeto for utilizado.
 class Carro:
-    rodas = 4 # tributos
+    rodas = 4 # atributos
     retrovisor = 2
 
 
