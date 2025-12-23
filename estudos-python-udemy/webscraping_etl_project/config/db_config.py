@@ -3,5 +3,5 @@ DB_CONFIG = {
     "port": 5432,
     "database": "etl_db",
     "user": "meu_usuario",
-    "password": "011223"
+    "password": "123"
 }
