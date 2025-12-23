@@ -1,0 +1,6 @@
+Linha 1: aprendendo como faz. 
+Linha 2: aprendendo como manipula um arquivo. 
+Linha 3: consegui compreender. 
+Primeira linha nova
+Segunda linha nova
+Terceira linha nova
